@@ -1,6 +1,6 @@
 # sp0
 ###### postav'te 3 &lt;з
-
+###### pochti nichego ne rabotaet :3
 Терминалы:
 * VAR -> [a-z]+
 * ASSIGN_OP -> =
