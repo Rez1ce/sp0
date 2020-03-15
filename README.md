@@ -2,7 +2,7 @@
 postav'te 3 &lt;з
 
 Терминалы:
-VAR -> [a-z]+\n
+VAR -> [a-z]+
 ASSIGN_OP -> =
 DIGIT -> 0 | ( [1-9][0-9]* )
 OP -> +|-|*|/
